@@ -1,0 +1,144 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Django OCR Scanner</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;800&display=swap");
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        font-family: "Montserrat", sans-serif;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      :root {
+        --primary: #e3ca45;
+        --secondary: #242034;
+        --accent: #f5dd5d;
+        --primary-fg: #fff;
+      }
+
+      button {
+        padding: 1rem;
+        font-weight: 600;
+        font-size: 1rem;
+        color: var(--primary-fg);
+        background: var(--primary);
+        border: 0;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+
+      input {
+        border: 1px solid var(--primary);
+        border-radius: 6px;
+        padding: 10px;
+        font-size: 1rem;
+        width: 100%;
+        margin: 10px 0;
+      }
+
+      form {
+        margin: 2rem auto;
+        width: 100%;
+        max-width: 500px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+      }
+
+      #message {
+        color: var(--primary);
+        font-weight: 600;
+        margin: 1rem 0;
+      }
+
+      .container {
+        padding: 0 2rem;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .header {
+        width: 100%;
+        height: 10rem;
+        display: flex;
+        background: var(--primary-fg);
+        justify-content: center;
+        align-items: center;
+      }
+
+      .wrapper {
+        margin: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      }
+
+      .wrapper p {
+        font-size: 1.5rem;
+        font-weight: 400;
+      }
+      .wrapper hr {
+        width: 100%;
+        border: 1px solid var(--primary);
+        margin: 0.2rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Django OCR Scanner</h1>
+      </div>
+
+      <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input
+          class="custom-file-upload"
+          type="file"
+          accept="image/*"
+          name="image"
+          id="file"
+        />
+        <button type="submit" id="submitBtn">Scan Image</button>
+        <div class="status">
+          <p id="message">{{ message }}</p>
+        </div>
+      </form>
+
+      <div class="wrapper">{{ output|safe }}</div>
+    </div>
+    <script>
+      console.log("Academy Omen: https://github.com/Academy-Omen");
+
+      // get element by id message
+      const message = document.getElementById("message");
+      const button = document.getElementById("submitBtn");
+      const file = document.getElementById("file");
+
+      // if button is clicked, check the file input
+      button.addEventListener("click", function (event) {
+        if (file.files.length === 0) {
+          message.innerHTML = "No File selected, Please select a file!";
+        } else {
+          message.innerHTML = "Processing Image....";
+        }
+      });
+    </script>
+  </body>
+</html>

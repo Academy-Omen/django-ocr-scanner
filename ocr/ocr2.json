@@ -1,0 +1,398 @@
+{
+  "language": "en",
+  "textAngle": -0.39444441095071797,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "261,127,173,769",
+      "lines": [
+        {
+          "boundingBox": "300,127,30,8",
+          "words": [{ "boundingBox": "300,127,30,8", "text": "vl.srr" }]
+        },
+        {
+          "boundingBox": "400,166,22,7",
+          "words": [{ "boundingBox": "400,166,22,7", "text": "•ste" }]
+        },
+        {
+          "boundingBox": "286,188,148,18",
+          "words": [
+            { "boundingBox": "286,188,68,16", "text": "CONCERT" },
+            { "boundingBox": "360,189,74,17", "text": "CALENDAR" }
+          ]
+        },
+        {
+          "boundingBox": "287,229,23,10",
+          "words": [{ "boundingBox": "287,229,23,10", "text": "PIMPS" }]
+        },
+        {
+          "boundingBox": "306,257,113,11",
+          "words": [
+            { "boundingBox": "306,257,14,8", "text": "ms" },
+            { "boundingBox": "365,259,54,9", "text": "umnnmsco" }
+          ]
+        },
+        {
+          "boundingBox": "300,312,37,10",
+          "words": [{ "boundingBox": "300,312,37,10", "text": "JAnuwjs" }]
+        },
+        {
+          "boundingBox": "281,432,69,12",
+          "words": [{ "boundingBox": "281,432,69,12", "text": "cunucouwy" }]
+        },
+        {
+          "boundingBox": "295,466,19,10",
+          "words": [{ "boundingBox": "295,466,19,10", "text": "STAR" }]
+        },
+        {
+          "boundingBox": "277,525,37,7",
+          "words": [{ "boundingBox": "277,525,37,7", "text": "SUNDAY." }]
+        },
+        {
+          "boundingBox": "276,535,78,11",
+          "words": [{ "boundingBox": "276,535,78,11", "text": "108S8USSUNO" }]
+        },
+        {
+          "boundingBox": "314,562,42,7",
+          "words": [{ "boundingBox": "314,562,42,7", "text": "OCTOBER" }]
+        },
+        {
+          "boundingBox": "275,571,39,12",
+          "words": [{ "boundingBox": "275,571,39,12", "text": "FUTUNO" }]
+        },
+        {
+          "boundingBox": "274,600,109,7",
+          "words": [
+            { "boundingBox": "274,600,50,7", "text": "SATURDAY." },
+            { "boundingBox": "373,601,10,6", "text": "•o" }
+          ]
+        },
+        {
+          "boundingBox": "273,610,62,12",
+          "words": [
+            { "boundingBox": "273,610,33,12", "text": "CAITLYN" },
+            { "boundingBox": "309,610,26,12", "text": "SMIIH" }
+          ]
+        },
+        {
+          "boundingBox": "272,639,107,8",
+          "words": [
+            { "boundingBox": "272,639,44,8", "text": "TUESDAY." },
+            { "boundingBox": "375,640,4,6", "text": "2" }
+          ]
+        },
+        {
+          "boundingBox": "272,650,29,13",
+          "words": [{ "boundingBox": "272,650,29,13", "text": "SONW" }]
+        },
+        {
+          "boundingBox": "271,681,100,8",
+          "words": [
+            { "boundingBox": "271,681,36,8", "text": "FRIDAY," },
+            { "boundingBox": "367,681,4,6", "text": "s" }
+          ]
+        },
+        {
+          "boundingBox": "270,692,89,13",
+          "words": [
+            { "boundingBox": "270,692,30,13", "text": "DONNA" },
+            { "boundingBox": "303,692,56,13", "text": "IHEBlJffALC" }
+          ]
+        },
+        {
+          "boundingBox": "268,723,119,9",
+          "words": [
+            { "boundingBox": "268,724,54,8", "text": "SATURDAY," },
+            { "boundingBox": "325,723,55,8", "text": "NOVEMBER" },
+            { "boundingBox": "382,724,5,7", "text": "e" }
+          ]
+        },
+        {
+          "boundingBox": "268,735,109,15",
+          "words": [
+            { "boundingBox": "268,736,16,14", "text": "THE" },
+            { "boundingBox": "287,736,22,13", "text": "UST" },
+            { "boundingBox": "311,735,66,14", "text": "WNJZTRIIIUTE" }
+          ]
+        },
+        {
+          "boundingBox": "266,769,102,9",
+          "words": [
+            { "boundingBox": "266,769,42,9", "text": "SUNDAY." },
+            { "boundingBox": "312,769,56,8", "text": "NOVEMBER" }
+          ]
+        },
+        {
+          "boundingBox": "266,780,120,16",
+          "words": [
+            { "boundingBox": "266,782,38,14", "text": "CIRCLES" },
+            { "boundingBox": "307,781,38,14", "text": "AROUND" },
+            { "boundingBox": "368,780,18,15", "text": "SUN" }
+          ]
+        },
+        {
+          "boundingBox": "264,816,118,10",
+          "words": [
+            { "boundingBox": "264,817,57,9", "text": "THURSDAY," },
+            { "boundingBox": "325,816,57,9", "text": "NOVEMBER" }
+          ]
+        },
+        {
+          "boundingBox": "263,829,52,16",
+          "words": [{ "boundingBox": "263,829,52,16", "text": "DELUMÅE" }]
+        },
+        {
+          "boundingBox": "262,865,103,11",
+          "words": [
+            { "boundingBox": "262,867,41,9", "text": "FRIDAY," },
+            { "boundingBox": "306,865,59,10", "text": "NOVEMBER" }
+          ]
+        },
+        {
+          "boundingBox": "261,879,96,17",
+          "words": [
+            { "boundingBox": "261,880,48,16", "text": "ROOMFUL" },
+            { "boundingBox": "312,879,12,16", "text": "OF" },
+            { "boundingBox": "327,879,30,15", "text": "BLUES" }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "470,169,124,251",
+      "lines": [
+        {
+          "boundingBox": "470,169,85,10",
+          "words": [
+            { "boundingBox": "470,169,42,9", "text": "SUMMER" },
+            { "boundingBox": "515,170,30,9", "text": "ROLLS" },
+            { "boundingBox": "549,172,6,6", "text": "•" }
+          ]
+        },
+        {
+          "boundingBox": "473,208,89,11",
+          "words": [
+            { "boundingBox": "473,208,40,10", "text": "GRILLED" },
+            { "boundingBox": "517,209,45,10", "text": "OYSTERS•" }
+          ]
+        },
+        {
+          "boundingBox": "475,241,67,11",
+          "words": [{ "boundingBox": "475,241,67,11", "text": "CHARCUTERIE" }]
+        },
+        {
+          "boundingBox": "478,284,116,12",
+          "words": [
+            { "boundingBox": "478,284,26,10", "text": "ROPA" },
+            { "boundingBox": "507,285,29,10", "text": "VIEJA" },
+            { "boundingBox": "539,286,55,10", "text": "EMPANAON" }
+          ]
+        },
+        {
+          "boundingBox": "480,320,98,11",
+          "words": [
+            { "boundingBox": "480,320,37,11", "text": "POTATO" },
+            { "boundingBox": "521,321,46,10", "text": "GNOCCHI" },
+            { "boundingBox": "571,323,7,7", "text": "•" }
+          ]
+        },
+        {
+          "boundingBox": "486,408,66,12",
+          "words": [{ "boundingBox": "486,408,66,12", "text": "PAN-SEARED" }]
+        }
+      ]
+    },
+    {
+      "boundingBox": "639,263,53,37",
+      "lines": [
+        {
+          "boundingBox": "639,263,43,11",
+          "words": [{ "boundingBox": "639,263,43,11", "text": "CHICKEN" }]
+        },
+        {
+          "boundingBox": "672,290,20,10",
+          "words": [{ "boundingBox": "672,290,20,10", "text": "SOU" }]
+        }
+      ]
+    },
+    {
+      "boundingBox": "495,462,146,196",
+      "lines": [
+        {
+          "boundingBox": "592,462,43,12",
+          "words": [{ "boundingBox": "592,462,43,12", "text": "SHRIMP" }]
+        },
+        {
+          "boundingBox": "495,529,79,13",
+          "words": [
+            { "boundingBox": "495,529,44,12", "text": "SHRIMP" },
+            { "boundingBox": "544,530,30,12", "text": "CAKE" }
+          ]
+        },
+        {
+          "boundingBox": "499,579,111,14",
+          "words": [
+            { "boundingBox": "499,579,56,14", "text": "CARNITAS" },
+            { "boundingBox": "599,582,11,11", "text": "@" }
+          ]
+        },
+        {
+          "boundingBox": "524,598,117,10",
+          "words": [
+            { "boundingBox": "524,602,2,2", "text": "•" },
+            { "boundingBox": "527,598,30,8", "text": "braised" },
+            { "boundingBox": "560,598,22,10", "text": "p•Mk." },
+            { "boundingBox": "621,598,20,9", "text": "slaw." }
+          ]
+        },
+        {
+          "boundingBox": "545,611,47,11",
+          "words": [
+            { "boundingBox": "545,611,31,11", "text": "pickled" },
+            { "boundingBox": "578,611,14,8", "text": "Rd" }
+          ]
+        },
+        {
+          "boundingBox": "531,624,88,9",
+          "words": [
+            { "boundingBox": "531,624,23,9", "text": "made" },
+            { "boundingBox": "592,631,4,2", "text": "„" },
+            { "boundingBox": "602,625,17,8", "text": "6.99" }
+          ]
+        },
+        {
+          "boundingBox": "503,644,110,14",
+          "words": [
+            { "boundingBox": "503,644,38,14", "text": "BRICK" },
+            { "boundingBox": "545,644,53,14", "text": "CHICKEN" },
+            { "boundingBox": "602,646,11,12", "text": "@" }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "663,410,87,249",
+      "lines": [
+        {
+          "boundingBox": "663,410,34,11",
+          "words": [{ "boundingBox": "663,410,34,11", "text": "STEAK" }]
+        },
+        {
+          "boundingBox": "671,455,37,11",
+          "words": [{ "boundingBox": "671,455,37,11", "text": "CEDAR" }]
+        },
+        {
+          "boundingBox": "726,627,24,8",
+          "words": [
+            { "boundingBox": "726,627,11,8", "text": "_L" },
+            { "boundingBox": "738,627,12,8", "text": "19" }
+          ]
+        },
+        {
+          "boundingBox": "706,645,44,14",
+          "words": [{ "boundingBox": "706,645,44,14", "text": "BRNSE" }]
+        }
+      ]
+    },
+    {
+      "boundingBox": "505,663,204,263",
+      "lines": [
+        {
+          "boundingBox": "505,663,124,11",
+          "words": [
+            { "boundingBox": "505,663,31,9", "text": "roasted" },
+            { "boundingBox": "538,663,20,11", "text": "baby" },
+            { "boundingBox": "595,664,34,8", "text": "Parisian" }
+          ]
+        },
+        {
+          "boundingBox": "506,677,176,10",
+          "words": [
+            { "boundingBox": "506,677,41,9", "text": "Broccoli\"" },
+            { "boundingBox": "548,678,5,9", "text": "i." },
+            { "boundingBox": "591,678,7,8", "text": "&" },
+            { "boundingBox": "660,678,22,8", "text": "19.99" }
+          ]
+        },
+        {
+          "boundingBox": "508,697,141,15",
+          "words": [
+            { "boundingBox": "508,697,92,15", "text": "MISOÆHICKEN" },
+            { "boundingBox": "604,698,45,14", "text": "RAMEN" }
+          ]
+        },
+        {
+          "boundingBox": "510,718,184,12",
+          "words": [
+            { "boundingBox": "510,718,63,12", "text": "soy•tnatinated" },
+            { "boundingBox": "575,718,37,10", "text": "chicken." },
+            { "boundingBox": "613,718,33,9", "text": "braised" },
+            { "boundingBox": "648,718,22,12", "text": "pork" },
+            { "boundingBox": "671,718,23,12", "text": "belly." }
+          ]
+        },
+        {
+          "boundingBox": "511,733,48,10",
+          "words": [{ "boundingBox": "511,733,48,10", "text": "soft-boiled" }]
+        },
+        {
+          "boundingBox": "512,749,72,12",
+          "words": [
+            { "boundingBox": "512,749,48,12", "text": "togarashim" },
+            { "boundingBox": "561,749,23,9", "text": "19.99" }
+          ]
+        },
+        {
+          "boundingBox": "514,771,66,16",
+          "words": [
+            { "boundingBox": "514,771,51,16", "text": "SHRIMP" },
+            { "boundingBox": "571,773,9,14", "text": "&" }
+          ]
+        },
+        {
+          "boundingBox": "516,792,193,14",
+          "words": [
+            { "boundingBox": "516,796,33,10", "text": "creamy" },
+            { "boundingBox": "551,793,25,10", "text": "white" },
+            { "boundingBox": "579,796,21,7", "text": "corn" },
+            { "boundingBox": "602,794,23,12", "text": "grits." },
+            { "boundingBox": "627,792,42,11", "text": "andouille" },
+            { "boundingBox": "672,795,37,10", "text": "sausage," }
+          ]
+        },
+        {
+          "boundingBox": "518,809,184,11",
+          "words": [
+            { "boundingBox": "518,809,36,11", "text": "shallots." },
+            { "boundingBox": "556,809,26,10", "text": "white" },
+            { "boundingBox": "584,810,22,9", "text": "wine" },
+            { "boundingBox": "607,811,36,8", "text": "•tomato" },
+            { "boundingBox": "644,809,29,10", "text": "broth." },
+            { "boundingBox": "674,809,28,10", "text": "2299" }
+          ]
+        },
+        {
+          "boundingBox": "548,896,144,14",
+          "words": [
+            { "boundingBox": "548,898,30,11", "text": "Served" },
+            { "boundingBox": "580,898,19,10", "text": "with" },
+            { "boundingBox": "601,900,20,10", "text": "your" },
+            { "boundingBox": "624,897,27,10", "text": "choice" },
+            { "boundingBox": "654,896,9,10", "text": "of" },
+            { "boundingBox": "664,896,28,9", "text": "french" }
+          ]
+        },
+        {
+          "boundingBox": "551,912,112,14",
+          "words": [
+            { "boundingBox": "551,914,17,12", "text": "Top" },
+            { "boundingBox": "570,916,21,10", "text": "your" },
+            { "boundingBox": "592,913,29,12", "text": "burger" },
+            { "boundingBox": "624,912,19,9", "text": "with" },
+            { "boundingBox": "646,914,17,6", "text": "eara" }
+          ]
+        }
+      ]
+    }
+  ]
+}
